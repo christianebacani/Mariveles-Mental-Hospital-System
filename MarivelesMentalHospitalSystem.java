@@ -1,4 +1,4 @@
-        // Mariveles Mental Wellness and General Hospital System
+// Mariveles Mental Wellness and General Hospital System
 // Created by : Christiane A. Bacani
 import java.util.Scanner;
 public class MarivelesMentalHospitalSystem {
